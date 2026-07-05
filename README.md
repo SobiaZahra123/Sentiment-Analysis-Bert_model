@@ -95,3 +95,6 @@ python app.py
 | Depth | Performance analysis across sentiment classes |
 | Logic | Training → saving → loading → GUI prediction connected end-to-end |
 | Fairness | Dataset balanced (300/class); slang and irony are known BERT limitations |
+
+## GUI
+"C:\Users\ZL\Pictures\Screenshots\Screenshot 2026-07-05 191227.png"
